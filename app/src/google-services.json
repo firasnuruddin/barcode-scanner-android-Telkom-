@@ -1,0 +1,77 @@
+{
+  "project_info": {
+    "project_number": "470169430669",
+    "firebase_url": "https://telkom-regional-iv-7e2aa.firebaseio.com",
+    "project_id": "telkom-regional-iv-7e2aa",
+    "storage_bucket": "telkom-regional-iv-7e2aa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:470169430669:android:1db30a3679f34580add0c4",
+        "android_client_info": {
+          "package_name": "android.com.yumnanda.penjualanobata11201710651yumnandaabidsaputra"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "470169430669-l9chf86qlu1pjgt1pug3hg4a8508md27.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAaCOZm9zstNcFmKbviFVSftzCzdPFibwc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "470169430669-l9chf86qlu1pjgt1pug3hg4a8508md27.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:470169430669:android:999207ad5bcc1af5add0c4",
+        "android_client_info": {
+          "package_name": "com.example.telkomregionaliv"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "470169430669-ee45r8u87dfhtr82elht3j3q0udk83bk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.telkomregionaliv",
+            "certificate_hash": "a2198c2e163a45539f9aca78f425f3078b1dea09"
+          }
+        },
+        {
+          "client_id": "470169430669-l9chf86qlu1pjgt1pug3hg4a8508md27.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAaCOZm9zstNcFmKbviFVSftzCzdPFibwc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "470169430669-l9chf86qlu1pjgt1pug3hg4a8508md27.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
